@@ -1,16 +1,31 @@
-# travel_app
+# Travel App
 
-A new Flutter project.
+A flutter project demonstrating how to structure code based on clean architecture using Riverpod(Provider).
 
 ## Getting Started
+This project is a starting point for a flutter application.
+The following instructions will help you set up  the project as a developer
 
-This project is a starting point for a Flutter application.
+### Prerequisites
+Before you clone this project you need to:
 
-A few resources to get you started if this is your first Flutter project:
+- [Install Flutter](https://docs.flutter.dev/get-started/install/linux)
+- [Install Android Studio](https://developer.android.com/studio)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Managing Dependencies
+```
+pub get
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Version Control
+Since we are using git - make sure you setup git flow on your local machine. We will be using feature development structure.
+
+### Development
+After developing a specific feature - merge your code to your local develop and push to online develop.
+
+### Built With
+- Flutter
+
+### Authors 
+- Simon Kiama
+
