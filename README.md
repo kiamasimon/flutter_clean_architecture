@@ -13,6 +13,7 @@ Before you clone this project you need to:
 - [Install Android Studio](https://developer.android.com/studio)
 
 ### Managing Dependencies
+After cloning the project, on your terminal navigate to project base folder (where pubspec.yaml is) To install dependencies run the following command:
 ```
 pub get
 ```
